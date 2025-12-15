@@ -7,10 +7,6 @@ Passionate about building innovative solutions with **Machine Learning**, **AI**
 ### 🏆 Recent Achievement
 - **1st Place Winner** - IntegrityX Financial Document Integrity Platform
 
-### 💼 Current Work
-- **Research Assistant** at George Mason University working on GeoWeaver Earth AI Workflow System
-- Contributing to NASA Earth Science Data Systems projects
-
 ### 🔧 Technologies & Tools
 **Languages:** Python, Java, JavaScript, SQL, R, C  
 **Frontend:** React, Angular, HTML5, CSS, JavaScript  
