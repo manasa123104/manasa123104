@@ -48,7 +48,7 @@ ML-based insurance cost prediction using Java and WEKA
 - **Link:** [View Project](https://github.com/smartinternz02/SPS-10659-Medical-Insurance-Prediction)
 
 ### 📚 Education
-- **MS in Data Analytics Engineering** - George Mason University (GPA: 3.81)
+- **MS in Data Analytics Engineering** - George Mason University (GPA: 3.83)
 - **BTech in Computer Science** - CVR College of Engineering
 
 ### 🌐 Connect with Me
