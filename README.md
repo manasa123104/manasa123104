@@ -25,7 +25,6 @@ Blockchain-sealed financial document integrity platform (1st Place Winner)
 #### 🔬 Live Image Detection & Classification
 Real-time YOLO-based object detection pipeline
 - **Tech:** Python, YOLOv8, OpenCV, Streamlit, Norfair
-- **Status:** In Progress
 
 #### 💭 Emotion Flow Timeline
 Text analysis tool with Transformers and React visualization
