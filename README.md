@@ -1,8 +1,8 @@
 # Hi there, I'm Manasa Rajagopal Madabushi 👋
 
-## 🚀 Data Analytics Engineer | MS Student at George Mason University
+## 🚀 Data Analytics Engineer | MS Graduate from George Mason University
 
-Passionate about building innovative solutions with **Machine Learning**, **AI**, and **Data Analytics**. Currently pursuing my Master's degree while contributing to cutting-edge research projects.
+Passionate about building innovative solutions with **Machine Learning**, **AI**, and **Data Analytics**. I recently graduated with a Master's degree in Data Analytics Engineering and have experience contributing to research, software engineering, and AI/ML-based projects.
 
 ### 🏆 Recent Achievement
 - **1st Place Winner** - IntegrityX Financial Document Integrity Platform
@@ -47,14 +47,14 @@ ML-based insurance cost prediction using Java and WEKA
 - **Link:** [View Project](https://github.com/smartinternz02/SPS-10659-Medical-Insurance-Prediction)
 
 ### 📚 Education
-- **MS in Data Analytics Engineering** - George Mason University (GPA: 3.83)
-- **BTech in Computer Science** - CVR College of Engineering
+- **MS in Data Analytics Engineering** - George Mason University, Graduated December 2025, GPA: 3.83
+- **B.Tech in Computer Science** - CVR College of Engineering
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/manasa-rajagopal-madabushi-4217461b3)
 - 🌐 [Portfolio Website](https://manasa123104.github.io/Manasa-portfolio/)
 - 📧 Email: manasamadabushi@gmail.com
+
 ---
 
 ⭐️ From [@manasa123104](https://github.com/manasa123104)
-
